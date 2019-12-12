@@ -8,4 +8,8 @@ more info: https://pycrawler.cupoy.com/
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day004_HW.ipynb>Day 4: HTTP Server-Client 架構說明與 利用 Python 存取 API</a></br>
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day005_HW.ipynb>Day 5: 實作 Day：API 資料串接 - 基本 API + JSON</a></br>
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day006_HW.ipynb>Day 6: 實作 Day：API 資料串接 - Headers</a></br>
+# Part 2 靜態網頁爬蟲技術
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day007_HW.ipynb>Day 7: HTTP 靜態網頁架構說明與淺談HTML / CSS / JavaScript</a></br>
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day008_HW.ipynb>Day 8:靜態網頁的資料爬蟲策略</a></br>
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day009_HW.ipynb>Day 9:圖片下載</a></br>
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day010_HW.ipynb>Day 10: PyQuery/grab</a></br>
