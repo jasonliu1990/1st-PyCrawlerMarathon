@@ -16,3 +16,4 @@ more info: https://pycrawler.cupoy.com/
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day011_HW.ipynb>Day 11: Regular expression</a></br>
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day012_HW.ipynb>Day 12: 實作 Day：ETTODAY 靜態爬蟲實作練習</a></br>
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day013_HW.ipynb>Day 13: 實作 Day：PTT(批踢踢)網路爬蟲實作練習</a></br>
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day014_HW.ipynb>Day 14: 實作 Day：Yahoo! 電影網頁爬蟲實作練習</a></br>
