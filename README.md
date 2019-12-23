@@ -18,3 +18,9 @@ more info: https://pycrawler.cupoy.com/
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day013_HW.ipynb>Day 13: 實作 Day：PTT(批踢踢)網路爬蟲實作練習</a></br>
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day014_HW.ipynb>Day 14: 實作 Day：Yahoo! 電影網頁爬蟲實作練習</a></br>
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day015_HW.ipynb>Day 15: 實作 Day：金融資訊網頁爬蟲實作練習</a></br>
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day016_HW.ipynb>Day 16: 實作 Day：Wiki的爬蟲實作練習</a></br>
+# Part 3 動態網頁爬蟲技術
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day017_HW.ipynb>Day 17: HTTP 動態網頁架構說明與非同步取得資料</a></br>
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day018_HW.ipynb>Day 18: 瀏覽器開發者工具介紹</a></br>
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day019_HW.ipynb>Day 19: 動態網頁爬蟲 - 使用Selenium + BeautifulSoup 模擬瀏覽器執行</a></br>
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day020_HW.ipynb>Day 20: 動態網頁爬蟲 - 利用開發者工具，觀察模擬 API 存取</a></br>
