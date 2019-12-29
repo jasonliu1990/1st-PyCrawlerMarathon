@@ -24,3 +24,5 @@ more info: https://pycrawler.cupoy.com/
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day018_HW.ipynb>Day 18: 瀏覽器開發者工具介紹</a></br>
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day019_HW.ipynb>Day 19: 動態網頁爬蟲 - 使用Selenium + BeautifulSoup 模擬瀏覽器執行</a></br>
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day020_HW.ipynb>Day 20: 動態網頁爬蟲 - 利用開發者工具，觀察模擬 API 存取</a></br>
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day021_HW.ipynb>Day 21: 實作 Day：ETTODAY 動態爬蟲實作練習</a></br>
+
