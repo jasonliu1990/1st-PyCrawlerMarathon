@@ -28,4 +28,5 @@ more info: https://pycrawler.cupoy.com/
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day022_HW.ipynb>Day 22: 實作 Day：空氣污染網站爬蟲實作練習</a></br>
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day023_HW.ipynb>Day 23: 實作 Day：東森新聞雲網站爬蟲實作練習</a></br>
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day024_HW.ipynb>Day 24: 實作 Day：104人力銀行網站爬蟲實作練習</a></br>
-
+# Part 4 Scrapy 網站爬蟲框架
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day026_HW.py>Day 26: Scrapy 爬蟲流程 (1) - 建立流程 + 送出請求</a></br>
