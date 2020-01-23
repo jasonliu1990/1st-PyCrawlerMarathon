@@ -34,8 +34,8 @@ more info: https://pycrawler.cupoy.com/
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day028_HW.py>Day 28: Scrapy 爬蟲流程 (3) - API</a></br>
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day029_HW.py>Day 29: Scrapy 爬蟲流程 (4) - 多網頁爬蟲</a></br>
 # Part 5 進階爬蟲技術
-<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day030_HW.py>Day 30: 爬蟲可能會遇到的問題 </a></br>
-<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day031_HW.py>Day 31: 反爬：瀏覽器標頭與基本資訊 </a></br>
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day030_HW.ipynb>Day 30: 爬蟲可能會遇到的問題 </a></br>
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day031_HW.ipynb>Day 31: 反爬：瀏覽器標頭與基本資訊 </a></br>
 
 
 
