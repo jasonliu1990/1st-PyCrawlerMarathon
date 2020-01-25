@@ -37,6 +37,6 @@ more info: https://pycrawler.cupoy.com/
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day030_HW.ipynb>Day 30: 爬蟲可能會遇到的問題 </a></br>
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day031_HW.ipynb>Day 31: 反爬：瀏覽器標頭與基本資訊 </a></br>
 <a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day032_HW.ipynb>Day 32: 反爬：驗證碼處理 </a></br>
-
+<a href=https://github.com/jasonliu1990/1st-PyCrawlerMarathon/blob/master/homework/Day033_HW.ipynb>Day 33: 反爬：登入授權模擬 </a></br>
 
 
